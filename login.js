@@ -6,7 +6,7 @@ document.getElementById("loginButton").addEventListener("click",function(){
     window.location.assign("functional bank.html");
    }
    else{
-    alert("kire beta password bhule geli?");
+    alert("vai password ar email thikmoto den !");
    }
 
 })
