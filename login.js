@@ -6,7 +6,7 @@ document.getElementById("loginButton").addEventListener("click",function(){
     window.location.assign("functional bank.html");
    }
    else{
-    alert("vai password ar email thikmoto den !");
+    alert("user : temp@gmail.com && password:12500");
    }
 
 })
